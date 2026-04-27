@@ -11,7 +11,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
         <div className="flex items-center">
           <h1 className="text-lg font-bold tracking-tight text-gray-800 dark:text-gray-100">
-            GPT Image Playground
+            gpt image2 console
           </h1>
         </div>
         <div className="flex items-center gap-1">
