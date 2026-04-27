@@ -2,7 +2,7 @@
 
 我的 GitHub Pages：
 
-https://driannauer.github.io/gpt_image_playground/
+https://driannauer.github.io/gpt_image2_console/
 
 原作者仓库：
 
