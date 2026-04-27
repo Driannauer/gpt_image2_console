@@ -5,11 +5,8 @@
 
 > 如有调用非本地的 HTTP API 的需求，请使用 GitHub Pages 版本或自行部署，因为 `.dev` 域名要求页面本身及其加载的资源（的来源）均为 HTTPS。
 
-**Vercel 部署版本在线体验：** 
-https://gpt-image-playground.cooksleep.dev
-
-**GitHub Pages 部署版本在线体验：**
-https://cooksleep.github.io/gpt_image_playground
+**当前仓库 GitHub Pages 在线体验：**
+https://driannauer.github.io/gpt_image_playground/
 
 ---
 
@@ -243,11 +240,7 @@ docker compose up -d
 例如：
 - 接入 New API 聊天应用：
   ```
-  https://gpt-image-playground.cooksleep.dev?apiUrl={address}&apiKey={key}
-  ```
-
-  ```
-  https://cooksleep.github.io/gpt_image_playground?apiUrl={address}&apiKey={key}
+  https://driannauer.github.io/gpt_image_playground/?apiUrl={address}&apiKey={key}
   ```
 
 ---
