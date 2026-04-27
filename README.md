@@ -1,4 +1,4 @@
-# GPT Image Playground
+# GPT Image2 Console
 
 我的 GitHub Pages：
 
