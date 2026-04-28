@@ -12,6 +12,7 @@ import Lightbox from './components/Lightbox'
 import SettingsModal from './components/SettingsModal'
 import ConfirmDialog from './components/ConfirmDialog'
 import Toast from './components/Toast'
+import MaskEditorModal from './components/MaskEditorModal'
 import ImageContextMenu from './components/ImageContextMenu'
 
 export default function App() {
@@ -74,7 +75,7 @@ export default function App() {
   return (
     <>
       <Header />
-      <main className="max-w-7xl mx-auto px-4 pb-48">
+      <main data-home-main className="safe-area-x max-w-7xl mx-auto pb-48">
         <SearchBar />
         <TaskGrid />
       </main>
@@ -84,6 +85,7 @@ export default function App() {
       <SettingsModal />
       <ConfirmDialog />
       <Toast />
+      <MaskEditorModal />
       <ImageContextMenu />
     </>
   )
